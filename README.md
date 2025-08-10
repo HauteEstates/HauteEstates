@@ -51,7 +51,7 @@
           <h1 class="text-4xl md:text-5xl font-bold leading-tight">Haute Estate</h1>
           <p class="mt-4 text-lg max-w-lg">Exclusive luxury homes, curated with taste. Follow our Instagram for daily reveals and design inspiration.</p>
           <div class="mt-6 flex gap-3">
-            <a href="#listings" class="px-6 py-3 bg-white text-black rounded-md font-medium">View Listings</a>
+            <a href="#listings" class="px-6 py-3 bg-white text-black rounded-md font-medium">Create a Listing</a>
             <a href="https://instagram.com/HauteEstate" target="_blank" class="px-6 py-3 border rounded-md" style="border-color:var(--accent); color:var(--accent)">Follow on Instagram</a>
           </div>
         </div>
