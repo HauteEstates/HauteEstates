@@ -90,33 +90,40 @@
 </a>
 
 <style>
-.insta-btn {
-    background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
-    padding: 12px 24px;
-    border-radius: 8px;
-    text-decoration: none;
-    color: #ffffff;
-    font-weight: bold;
-    font-size: 1rem;
-    border: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: transform 0.25s ease, box-shadow 0.25s ease, text-shadow 0.25s ease;
-    animation: pulse 1.8s infinite ease-in-out;
+.insta-pill-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, #8e2de2, #4a00e0);
+  color: white;
+  font-weight: bold;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  box-shadow: 0 4px 15px rgba(142, 45, 226, 0.4);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
 }
 
-.insta-btn:hover {
-    transform: scale(1.1);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.4);
-    text-shadow: 0 0 5px #ffffff, 0 0 10px #ff80ff, 0 0 20px #ff00ff;
+.insta-pill-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,0.3);
+  transform: skewX(-20deg);
+  transition: left 0.4s ease;
 }
 
-/* Pulse Animation */
-@keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.06); }
-    100% { transform: scale(1); }
+.insta-pill-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 20px rgba(142, 45, 226, 0.7);
+}
+
+.insta-pill-btn:hover::before {
+  left: 100%;
 }
 </style>
  </div>
