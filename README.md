@@ -222,7 +222,7 @@
   left: 100%;
 }
 </style>
-    </div>
+  </div>
   </section>
 <div>
 <div>
