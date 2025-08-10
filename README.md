@@ -167,7 +167,7 @@
 </a>
 
 <style>
-.insta-pill-btn {
+.insta-btn {
   display: inline-block;
   padding: 12px 28px;
   background: linear-gradient(135deg, #8e2de2, #4a00e0);
@@ -182,7 +182,7 @@
   overflow: hidden;
 }
 
-.insta-pill-btn::before {
+.insta-btn::before {
   content: '';
   position: absolute;
   top: 0;
@@ -194,19 +194,14 @@
   transition: left 0.4s ease;
 }
 
-.insta-pill-btn:hover {
+.insta-btn:hover {
   transform: scale(1.08);
   box-shadow: 0 6px 20px rgba(142, 45, 226, 0.7);
 }
 
-.insta-pill-btn:hover::before {
+.insta-btn:hover::before {
   left: 100%;
 }
-</style>
-}
-.insta-btn:hover {
-    background: #a64ca6; /* lighter purple */
-  }
 </style>
     </div>
   </section>
