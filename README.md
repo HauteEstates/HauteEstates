@@ -157,9 +157,9 @@
   <h2 style="text-align:center; font-size:2rem; margin-bottom:20px;">Instagram Highlights</h2>
   <div class="instagram-grid">
     <img src="https://onekindesign.com/wp-content/uploads/2018/04/Modern-Dream-House-McClean-Design-01-1-Kindesign.jpg">
-    <img src="insta2.jpg" alt="Luxury Home 2">
-    <img src="insta3.jpg" alt="Luxury Home 3">
-    <img src="insta4.jpg" alt="Luxury Home 4">
+    <img src="https://cdn.home-designing.com/wp-content/uploads/2021/02/luxury-house-exterior.jpg">
+    <img src="https://onekindesign.com/wp-content/uploads/2024/01/Modern-Hillside-House-Los-Angeles-Bjella-Architects-119-1-Kindesign.jpg">
+    <img src="https://cdn.tollbrothers.com/communities/14667/images-resized/Skylar-by-Toll-Brothers_Merle-Prairie-Inspire_Rear-Elevation_1920_920.jpg">
   </div>
 </section>
 
