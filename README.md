@@ -184,8 +184,7 @@
   box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
 </style>
-  </div>
-    <div style="text-align: center; margin-top: 20px;">
+  </div> style="text-align: center; margin-top: 20px;">
       <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Visit Instagram
 </a>
@@ -227,9 +226,7 @@
   left: 100%;
 }
 </style>
-<div>
-<div>
-<div>
+
   <!-- Footer -->
   <footer>
     &copy; 2025 Haute Estate. All rights reserved.
