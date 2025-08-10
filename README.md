@@ -185,7 +185,7 @@
 }
 </style>
    
-    style="text-align: center; margin-top: 20px;">
+    
   <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Visit Instagram
 </a>
