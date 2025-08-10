@@ -63,10 +63,7 @@
 
 
   <!-- Hero -->
-  <header>
-    <h1>Haute Estate</h1>
-    <p>Curated Luxury Living</p>
-    <a href="https://instagram.com/YOURHANDLE" target="_blank">Follow on Instagram</a>
+  
   </header>
 
   <!-- About -->
