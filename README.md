@@ -47,8 +47,30 @@
           <p class="mt-4 text-lg max-w-lg">Exclusive luxury homes, curated with taste. Follow our Instagram for daily reveals and design inspiration.</p>
           <div class="mt-6 flex gap-3">
             <a href="#listings" class="px-6 py-3 bg-white text-black rounded-md font-medium">Create Listing</a>
-            <a href="https://instagram.com/hauteestatesla" target="_blank" class="px-6 py-3 border rounded-md" style="border-color:962fbf; color:ffffff">Follow on Instagram</a>
-          </div>
+            <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
+    Follow on Instagram
+</a>
+
+<style>
+.insta-btn {
+    background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, text-shadow 0.25s ease;
+    display: inline-block;
+}
+.insta-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    text-shadow: 0 0 5px #ffffff, 0 0 10px #ff80ff, 0 0 20px #ff00ff;
+}
+</style>
+ </div>
         </div>
         <div class="md:w-1/2 grid grid-cols-2 gap-3">
           <!-- small preview images -->
@@ -104,7 +126,9 @@
 </style>
     </div>
   </section>
-
+</div>
+</div>
+</div>
   <!-- Footer -->
   <footer>
     &copy; 2025 Haute Estate. All rights reserved.
