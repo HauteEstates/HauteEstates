@@ -153,14 +153,33 @@
   </section>
 
   <!-- Instagram Preview -->
-  <section>
-    <h2>Instagram Highlights</h2>
-    <div class="instagram-grid">
-      <img src="insta1.jpg" alt="https://photos.zillowstatic.com/fp/e43ef7c8b88ef4dc113ff8b116c3b99a-cc_ft_960.jpg">
-      <img src="insta2.jpg" alt="Instagram preview 2">
-      <img src="insta3.jpg" alt="Instagram preview 3">
-      <img src="insta4.jpg" alt="Instagram preview 4">
-    </div>
+</section>
+
+<style>
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 15px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.instagram-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
+  cursor: pointer;
+}
+
+.instagram-grid img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+  filter: brightness(1.1);
+}
+</style>
+  </div>
     <div style="text-align: center; margin-top: 20px;">
       <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Visit Instagram
