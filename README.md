@@ -153,30 +153,35 @@
   </section>
 
   <!-- Instagram Preview -->
+<section>
+  <h2 style="text-align:center; font-size:2rem; margin-bottom:20px;">Instagram Highlights</h2>
+  <div class="instagram-grid">
+    <img src="insta1.jpg" alt="Luxury Home 1">
+    <img src="insta2.jpg" alt="Luxury Home 2">
+    <img src="insta3.jpg" alt="Luxury Home 3">
+    <img src="insta4.jpg" alt="Luxury Home 4">
+  </div>
 </section>
 
 <style>
 .instagram-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 15px;
-  max-width: 900px;
-  margin: auto;
+  padding: 0 20px;
 }
 
 .instagram-grid img {
   width: 100%;
-  height: auto;
+  height: 200px;
+  object-fit: cover;
   border-radius: 15px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
-  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .instagram-grid img:hover {
   transform: scale(1.05);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-  filter: brightness(1.1);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
 </style>
   </div>
