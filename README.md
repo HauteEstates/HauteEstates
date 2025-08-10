@@ -87,6 +87,8 @@
 </style>
             <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Follow on Instagram
+<a href="https://instagram.com/YOURHANDLE" target="_blank" class="insta-btn">
+    Follow on Instagram
 </a>
 
 <style>
@@ -99,15 +101,24 @@
     font-weight: bold;
     font-size: 1rem;
     border: none;
-    transition: transform 0.25s ease, box-shadow 0.25s ease, text-shadow 0.25s ease;
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, text-shadow 0.25s ease;
+    animation: pulse 1.8s infinite ease-in-out;
 }
+
 .insta-btn:hover {
-    transform: scale(1.05);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    transform: scale(1.1);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.4);
     text-shadow: 0 0 5px #ffffff, 0 0 10px #ff80ff, 0 0 20px #ff00ff;
+}
+
+/* Pulse Animation */
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.06); }
+    100% { transform: scale(1); }
 }
 </style>
  </div>
