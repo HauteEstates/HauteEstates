@@ -85,9 +85,7 @@
   left: 100%;
 }
 </style>
-            <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
-    Follow on Instagram
-<a href="https://instagram.com/YOURHANDLE" target="_blank" class="insta-btn">
+  <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Follow on Instagram
 </a>
 
