@@ -187,11 +187,11 @@
 <div>
 
 </div>
-    style="text-align: center; margin-top: 20px;">
+    
   <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Visit Instagram
 </a>
-
+style="text-align: center; margin-top: 20px;">
 <style>
 .insta-btn {
   display: inline-block;
