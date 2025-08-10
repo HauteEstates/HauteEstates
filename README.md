@@ -47,7 +47,7 @@
           <p class="mt-4 text-lg max-w-lg">Exclusive luxury homes, curated with taste. Follow our Instagram for daily reveals and design inspiration.</p>
           <div class="mt-6 flex gap-3">
             <a href="#listings" class="px-6 py-3 bg-white text-black rounded-md font-medium">Create Listing</a>
-            <a href="https://instagram.com/hauteestatesla" target="_blank" class="px-6 py-3 border rounded-md" style="border-color:962fbf; color:black">Follow on Instagram</a>
+            <a href="https://instagram.com/hauteestatesla" target="_blank" class="px-6 py-3 border rounded-md" style="border-color:962fbf; color:ffffff">Follow on Instagram</a>
           </div>
         </div>
         <div class="md:w-1/2 grid grid-cols-2 gap-3">
@@ -84,7 +84,7 @@
       <img src="insta4.jpg" alt="Instagram preview 4">
     </div>
     <div style="text-align: center; margin-top: 20px;">
-      <a href="https://instagram.com/hauteestatesla" target="_blank" style="background:white; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: black;">Visit Instagram</a>
+      <a href="https://instagram.com/hauteestatesla" target="_blank" style="background:purple; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: black;">Visit Instagram</a>
     </div>
   </section>
 
