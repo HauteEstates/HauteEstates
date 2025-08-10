@@ -120,7 +120,6 @@
 
 /* MOBILE FIXES */
 @media (max-width: 600px) {
-  .create-listing-btn,
   .insta-btn {
     font-size: 0.95rem; /* Slightly smaller text */
     padding: 10px 20px; /* Less padding for narrower width */
