@@ -227,8 +227,6 @@
   left: 100%;
 }
 </style>
-  </div>
-  </section>
 <div>
 <div>
 <div>
