@@ -145,6 +145,27 @@
   
 
   <!-- About -->
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Lora&display=swap" rel="stylesheet">
+  <style>
+    section h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      font-weight: 600;
+      color: #2e2e2e;
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+    }
+    section p {
+      font-family: 'Lora', serif;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #444;
+      max-width: 700px;
+    }
+  </style>
+</head>
+  
   <section>
     <h2>About Haute Estate</h2>
     <p>
