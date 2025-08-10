@@ -86,7 +86,7 @@
 }
 </style>
   <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
-    View Instagram
+  Instagram
 </a>
 
 <style>
