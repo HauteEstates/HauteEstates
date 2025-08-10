@@ -36,7 +36,7 @@
         <a href="https://instagram.com/HauteEstate" target="_blank">Instagram</a>
       </div>
     </div>
-  </header>
+  
 
   <!-- HERO -->
   <section class="bg-[url('https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=0a2f7d0f1a2cbb4a4b0b6b5ea4fb6d5b')] bg-cover bg-center">
