@@ -24,18 +24,8 @@
           <div class="text-xs text-gray-500">Curated Luxury Living</div>
         </div>
       </a>
-      color:var(--accent); color:var(--accent)">Follow @HauteEstate</a>
-      </nav>
-      <button id="menuBtn" class="md:hidden">☰</button>
-    </div>
-    <div id="mobileMenu" class="hidden border-t md:hidden">
-      <div class="p-4 flex flex-col gap-3">
-        <a href="#listings">Listings</a>
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
-        <a href="https://instagram.com/HauteEstate" target="_blank">Instagram</a>
-      </div>
-    </div>
+      
+        
   </header>
 
   <!-- HERO -->
