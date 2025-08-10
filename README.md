@@ -46,7 +46,45 @@
           <h1 class="text-4xl md:text-5xl font-bold leading-tight">Haute Estate</h1>
           <p class="mt-4 text-lg max-w-lg">Exclusive luxury homes, curated with taste. Follow our Instagram for daily reveals and design inspiration.</p>
           <div class="mt-6 flex gap-3">
-            <a href="#listings" class="px-6 py-3 bg-white text-black rounded-md font-medium">Create Listing</a>
+            <a href="#listings" class="create-listing-btn">Create Listing</a>
+
+<style>
+.create-listing-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, gold, orange);
+  color: black;
+  font-weight: bold;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  box-shadow: 0 4px 15px rgba(255, 165, 0, 0.4);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.create-listing-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,0.4);
+  transform: skewX(-20deg);
+  transition: left 0.4s ease;
+}
+
+.create-listing-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 20px rgba(255, 165, 0, 0.7);
+}
+
+.create-listing-btn:hover::before {
+  left: 100%;
+}
+</style>
             <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Follow on Instagram
 </a>
