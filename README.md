@@ -184,6 +184,9 @@
   box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
 </style>
+<div>
+
+</div>
     style="text-align: center; margin-top: 20px;">
   <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
     Visit Instagram
