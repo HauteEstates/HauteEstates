@@ -167,14 +167,42 @@
 </a>
 
 <style>
-.insta-btn {
-    background: purple;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    transition: background 0.3s ease;
+.insta-pill-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, #8e2de2, #4a00e0);
+  color: white;
+  font-weight: bold;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  box-shadow: 0 4px 15px rgba(142, 45, 226, 0.4);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.insta-pill-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,0.3);
+  transform: skewX(-20deg);
+  transition: left 0.4s ease;
+}
+
+.insta-pill-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 20px rgba(142, 45, 226, 0.7);
+}
+
+.insta-pill-btn:hover::before {
+  left: 100%;
+}
+</style>
 }
 .insta-btn:hover {
     background: #a64ca6; /* lighter purple */
