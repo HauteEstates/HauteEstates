@@ -31,7 +31,7 @@
         <a href="#contact" class="hover:text-gray-700">Contact</a>
         <a href="https://instagram.com/HauteEstate" target="_blank" class="inline-block px-4 py-2 border rounded-md text-sm font-medium" style="border-color:var(--accent); color:var(--accent)">Follow @HauteEstate</a>
       </nav>
-      <button id="menuBtn" class="md:hidden">☰</button>
+      
     </div>
     <div id="mobileMenu" class="hidden border-t md:hidden">
       <div class="p-4 flex flex-col gap-3">
