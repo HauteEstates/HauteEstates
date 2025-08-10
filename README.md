@@ -148,7 +148,7 @@
   <section>
     <h2>About Haute Estate</h2>
     <p>
-      Haute Estate is your premier destination for curated luxury properties that define sophistication, elegance, and timeless style. We showcase homes that embody the art of refined living, offering unparalleled beauty and quality.
+      Haute Estate offers a refined collection of luxury properties defined by timeless style, exceptional design, and quality craftsmanship. From modern urban residences to serene coastal homes, our portfolio presents a variety of distinguished living spaces. We aim to provide a seamless experience for anyone seeking to explore the finest in luxury real estate.
     </p>
   </section>
 
