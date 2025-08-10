@@ -152,7 +152,7 @@
       font-family: 'Playfair Display', serif;
       font-size: 2rem;
       font-weight: 600;
-      color: #2e2e2e;
+      color: #000000;
       letter-spacing: 1px;
       margin-bottom: 10px;
     }
