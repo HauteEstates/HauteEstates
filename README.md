@@ -49,21 +49,26 @@
             <a href="#listings" class="create-listing-btn">Create Listing</a>
 
 <style>
-.create-listing-btn {
+.create-listing-btn,
+.insta-btn {
   display: inline-block;
   padding: 12px 28px;
-  background: linear-gradient(135deg, gold, orange);
-  color: black;
   font-weight: bold;
   border-radius: 50px;
   text-decoration: none;
   font-size: 1.1rem;
-  box-shadow: 0 4px 15px rgba(255, 165, 0, 0.4);
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;
+  white-space: nowrap; /* Prevents text wrapping */
 }
 
+/* Create Listing Colors */
+.create-listing-btn {
+  background: linear-gradient(135deg, gold, orange);
+  color: black;
+  box-shadow: 0 4px 15px rgba(255, 165, 0, 0.4);
+}
 .create-listing-btn::before {
   content: '';
   position: absolute;
@@ -75,12 +80,10 @@
   transform: skewX(-20deg);
   transition: left 0.4s ease;
 }
-
 .create-listing-btn:hover {
   transform: scale(1.08);
   box-shadow: 0 6px 20px rgba(255, 165, 0, 0.7);
 }
-
 .create-listing-btn:hover::before {
   left: 100%;
 }
@@ -90,22 +93,13 @@
 </a>
 
 <style>
-.insta-pill-btn {
-  display: inline-block;
-  padding: 12px 28px;
+/* Instagram Button Colors */
+.insta-btn {
   background: linear-gradient(135deg, #8e2de2, #4a00e0);
   color: white;
-  font-weight: bold;
-  border-radius: 50px;
-  text-decoration: none;
-  font-size: 1.1rem;
   box-shadow: 0 4px 15px rgba(142, 45, 226, 0.4);
-  transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
 }
-
-.insta-pill-btn::before {
+.insta-btn::before {
   content: '';
   position: absolute;
   top: 0;
@@ -116,14 +110,21 @@
   transform: skewX(-20deg);
   transition: left 0.4s ease;
 }
-
-.insta-pill-btn:hover {
+.insta-btn:hover {
   transform: scale(1.08);
   box-shadow: 0 6px 20px rgba(142, 45, 226, 0.7);
 }
-
-.insta-pill-btn:hover::before {
+.insta-btn:hover::before {
   left: 100%;
+}
+
+/* MOBILE FIXES */
+@media (max-width: 600px) {
+  .create-listing-btn,
+  .insta-btn {
+    font-size: 0.95rem; /* Slightly smaller text */
+    padding: 10px 20px; /* Less padding for narrower width */
+  }
 }
 </style>
  </div>
