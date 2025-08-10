@@ -156,7 +156,7 @@
   <section>
     <h2>Instagram Highlights</h2>
     <div class="instagram-grid">
-      <img src="insta1.jpg" alt="Instagram preview 1">
+      <img src="insta1.jpg" alt="https://photos.zillowstatic.com/fp/e43ef7c8b88ef4dc113ff8b116c3b99a-cc_ft_960.jpg">
       <img src="insta2.jpg" alt="Instagram preview 2">
       <img src="insta3.jpg" alt="Instagram preview 3">
       <img src="insta4.jpg" alt="Instagram preview 4">
