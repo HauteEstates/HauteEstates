@@ -24,11 +24,7 @@
           <div class="text-xs text-gray-500">Curated Luxury Living</div>
         </div>
       </a>
-      <nav class="hidden md:flex gap-6 items-center text-sm">
-        <a href="#listings" class="hover:text-gray-700">Listings</a>
-        <a href="#about" class="hover:text-gray-700">About</a>
-        <a href="#contact" class="hover:text-gray-700">Contact</a>
-        <a href="https://instagram.com/HauteEstate" target="_blank" class="inline-block px-4 py-2 border rounded-md text-sm font-medium" style="border-color:var(--accent); color:var(--accent)">Follow @HauteEstate</a>
+      color:var(--accent); color:var(--accent)">Follow @HauteEstate</a>
       </nav>
       <button id="menuBtn" class="md:hidden">☰</button>
     </div>
@@ -66,23 +62,11 @@
   </section>
 
 
-
-
-
-
-
-  <!-- Hero -->
-  <header>
-    <h1>Haute Estate</h1>
-    <p>Curated Luxury Living</p>
-    <a href="https://instagram.com/YOURHANDLE" target="_blank">Follow on Instagram</a>
-  </header>
-
   <!-- About -->
   <section>
     <h2>About Haute Estate</h2>
     <p>
-      Haute Estate is your premier destination for curated luxury properties that define sophistication, elegance, and timeless style. We handpick homes that embody the art of refined living, offering unparalleled beauty and quality.
+      Haute Estate is your premier destination for curated luxury properties that define sophistication, elegance, and timeless style. We showcase homes that embody the art of refined living, offering unparalleled beauty and quality.
     </p>
   </section>
 
