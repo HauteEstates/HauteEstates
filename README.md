@@ -132,7 +132,7 @@
           <!-- small preview images -->
           <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=8c3c1b2e4f1a3bdc" alt="property" class="w-full h-40 object-cover rounded-lg">
           <img src="https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=7d6e0c7f5f6b8d9a" alt="interior" class="w-full h-40 object-cover rounded-lg">
-          <img src="[(https://www.thespruce.com/thmb/WGM65rvygcSai-Ag-tRiGoTf6HM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DSC_5074-dc2cec8d1ad74622a6ac19b21f93a1eb.jpg)]" class="w-full h-40 object-cover rounded-lg">
+          <img src="https://www.thespruce.com/thmb/WGM65rvygcSai-Ag-tRiGoTf6HM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DSC_5074-dc2cec8d1ad74622a6ac19b21f93a1eb.jpg" alt="kitchen" class="w-full h-40 object-cover rounded-lg">
           <img src="https://images.unsplash.com/photo-1505691723518-36a8b6f9a5d6?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=4e6b3f7b" alt="exterior" class="w-full h-40 object-cover rounded-lg">
         </div>
       </div>
