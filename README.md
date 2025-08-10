@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -29,7 +29,7 @@
         <a href="#listings" class="hover:text-gray-700">Listings</a>
         <a href="#about" class="hover:text-gray-700">About</a>
         <a href="#contact" class="hover:text-gray-700">Contact</a>
-        <a href="https://instagram.com/HauteEstate" target="_blank" class="inline-block px-4 py-2 border rounded-md text-sm font-medium" style="border-color:var(--accent); color:var(--accent)">Follow @HauteEstate</a>
+        <a href="https://instagram.com/HauteEstate" target="_blank" class="inline-block px-4 py-2 border rounded-md text-sm font-medium" style="border-color:var(--accent); color: white">Follow @HauteEstate</a>
       </nav>
       
     </div>
