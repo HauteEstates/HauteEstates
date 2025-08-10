@@ -153,11 +153,6 @@
         <p class="mt-4 text-sm">Email: <a href="mailto:hello@hauteestate.com" class="underline">hello@hauteestate.com</a></p>
       </div>
       <div>
-        <h3 class="text-lg font-semibold">Office</h3>
-        <p class="mt-2 text-gray-300 text-sm">Los Angeles, CA</p>
-        <p class="mt-2 text-gray-300 text-sm">Phone: (555) 123-4567</p>
-      </div>
-      <div>
         <h3 class="text-lg font-semibold">Sign up</h3>
         <p class="mt-2 text-gray-300 text-sm">Join our VIP list for early access to new listings.</p>
         <form action="mailto:hello@hauteestate.com" method="post" enctype="text/plain" class="mt-3 flex flex-col gap-2">
