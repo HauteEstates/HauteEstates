@@ -185,7 +185,7 @@
 }
 <a 
   href="https://instagram.com/hauteestatesla" target="_blank" 
-  class="insta-btn"> style="display: block; text-align: center; margin-top: 20px;">
+  class="insta-btn"> style="display: block; text-align: center; margin-top: 20px;"
   Visit Instagram
   
   
