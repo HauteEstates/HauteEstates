@@ -22,7 +22,7 @@
         <div class="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center font-semibold">HE</div>
         <div>
           <div class="text-sm font-semibold">Haute Estate</div>
-          <div class="text-xs text-gray-500">Curated Luxury Living</div>
+          <div class="text-xs text-gray-500">Curated Luxury Living Marketing</div>
         </div>
       </a>
       <nav class="hidden md:flex gap-6 items-center text-sm">
@@ -62,7 +62,9 @@
     font-size: 1rem;
     border: none;
     transition: transform 0.25s ease, box-shadow 0.25s ease, text-shadow 0.25s ease;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .insta-btn:hover {
     transform: scale(1.05);
@@ -126,9 +128,9 @@
 </style>
     </div>
   </section>
-</div>
-</div>
-</div>
+<div>
+<div>
+<div>
   <!-- Footer -->
   <footer>
     &copy; 2025 Haute Estate. All rights reserved.
