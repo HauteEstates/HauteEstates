@@ -84,7 +84,24 @@
       <img src="insta4.jpg" alt="Instagram preview 4">
     </div>
     <div style="text-align: center; margin-top: 20px;">
-      <a href="https://instagram.com/hauteestatesla" target="_blank" style="background:80080; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: black;">Visit Instagram</a>
+      <a href="https://instagram.com/hauteestatesla" target="_blank" class="insta-btn">
+    Visit Instagram
+</a>
+
+<style>
+.insta-btn {
+    background: purple;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+.insta-btn:hover {
+    background: #a64ca6; /* lighter purple */
+  }
+</style>
     </div>
   </section>
 
