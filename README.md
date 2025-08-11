@@ -17,7 +17,7 @@
 <body class="bg-white text-gray-900">
   <!-- NAV -->
   <header class="border-b">
-    <div class="max-w-6xl mx-auto flex items-left justify-between p-6">
+    <div class="max-w-6xl mx-auto flex items-start justify-between p-6">
       <a href="#" class="flex items-left gap-3">
         <div class="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center font-semibold">HE</div>
         <div>
@@ -25,7 +25,7 @@
           <div class="text-xs text-gray-500">Curated Luxury Living Marketing</div>
         </div>
       </a>
-      <nav class="hidden md:flex gap-6 items-left text-sm">
+      <nav class="hidden md:flex gap-6 items-start text-sm">
         
       </nav>
       
