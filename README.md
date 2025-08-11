@@ -148,30 +148,31 @@
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Lora&display=swap" rel="stylesheet">
   <style>
-    section h2 {
+    .about-haute h2 {
       font-family: 'Playfair Display', serif;
       font-size: 2rem;
       font-weight: 600;
-      color: #000000;
+      color: #2e2e2e;
       letter-spacing: 1px;
       margin-bottom: 10px;
     }
-    section p {
+    .about-haute p {
       font-family: 'Lora', serif;
       font-size: 1.1rem;
       line-height: 1.8;
-      color: #000000;
+      color: #444;
       max-width: 700px;
     }
   </style>
 </head>
-  
-  <section>
+
+<section class="about-haute">
     <h2>About Haute Estate</h2>
     <p>
       Haute Estate offers a refined collection of luxury properties defined by timeless style, exceptional design, and quality craftsmanship. From modern urban residences to serene coastal homes, our portfolio presents a variety of distinguished living spaces. We aim to provide a seamless experience for anyone seeking to explore the finest in luxury real estate.
     </p>
-  </section>
+</section>
+    
 
   <!-- Instagram Preview -->
 <section>
