@@ -257,7 +257,7 @@
 
   <!-- Footer -->
   
-  <footer style="margin-top: 8vh;">
+  <footer style="margin-top: 10vh;">
     &copy; 2025 Haute Estate. All rights reserved.
   </footer>
 
