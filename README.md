@@ -18,7 +18,7 @@
   <!-- NAV -->
   <header class="border-b">
     <div class="max-w-6xl mx-auto flex items-center justify-between p-6">
-      <a href="#" class="flex items-center gap-3">
+      <a href="#" class="flex items-center gap-0">
         <div class="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center font-semibold">HE</div>
         <div>
           <div class="text-sm font-semibold">Haute Estate</div>
