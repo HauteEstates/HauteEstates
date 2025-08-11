@@ -256,6 +256,9 @@
 </style>
 
   <!-- Footer -->
+  footer {
+  margin-top: 8vh; /* 8% of the viewport height */
+}
   <footer>
     &copy; 2025 Haute Estate. All rights reserved.
   </footer>
