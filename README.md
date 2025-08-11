@@ -16,11 +16,6 @@
 </head>
 <body class="bg-white text-gray-900">
   <!-- NAV -->
-  <a href="mailto:hauteestatesteam@gmail.com" 
-   class="px-4 py-2 border rounded-md text-sm font-medium text-white bg-purple-700 hover:bg-purple-800 transition"
-   target="_blank" rel="noopener noreferrer">
-  Contact Us
-</a>
   
   <header class="border-b">
     <div class="max-w-6xl mx-auto flex items-center justify-between p-6">
@@ -31,9 +26,14 @@
           <div class="text-xs text-gray-500">Curated Luxury Living Marketing</div>
         </div>
       </a>
-      <nav class="hidden md:flex gap-6 items-start text-sm">
+      <nav class="hidden md:flex gap-6 items-start text-sm"
+        <a href="mailto:hauteestatesteam@gmail.com" 
+   class="px-4 py-2 border rounded-md text-sm font-medium text-white bg-purple-700 hover:bg-purple-800 transition"
+   target="_blank" rel="noopener noreferrer">
+  Contact Us
+</a>
         
-      </nav>
+  </nav>
       
     </div>
     <div id="mobileMenu" class="hidden border-t md:hidden">
