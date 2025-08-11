@@ -20,7 +20,7 @@
   <header class="border-b">
     <div class="max-w-6xl mx-auto flex items-center justify-between p-6">
       <a href="#" class="flex items-center gap-3 justify-start">
-        <div class="w-4 h-4 rounded-full bg-black text-white flex items-center justify-center font-semibold">HE</div>
+        <div class="w-14 h-14 rounded-full bg-black text-white flex items-center justify-center font-semibold text-lg">HE</div>
         <div>
           <div class="text-xl font-semibold">Haute Estates</div>
           <div class="text-base text-gray-500">Curated Luxury Living Marketing</div>
