@@ -28,13 +28,7 @@
       </a>
       <nav class="hidden md:flex gap-6 items-start text-sm">
         
-<nav class="hidden md:flex gap-6 items-center text-sm">
-  <a href="mailto:hauteestatesteam@gmail.com"
-     class="inline-block px-6 py-3 bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 
-            text-black font-bold rounded-full shadow-md transition-transform duration-300 hover:scale-105 hover:shadow-lg"
-     target="_blank" rel="noopener noreferrer">
-    Contact Us
-  </a>
+
 </nav>
       
     </div>
