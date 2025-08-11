@@ -16,6 +16,12 @@
 </head>
 <body class="bg-white text-gray-900">
   <!-- NAV -->
+  <a href="mailto:hauteestatesteam@gmail.com" 
+   class="px-4 py-2 border rounded-md text-sm font-medium text-white bg-purple-700 hover:bg-purple-800 transition"
+   target="_blank" rel="noopener noreferrer">
+  Contact Us
+</a>
+  
   <header class="border-b">
     <div class="max-w-6xl mx-auto flex items-center justify-between p-6">
       <a href="#" class="flex items-center gap-3 justify-start">
