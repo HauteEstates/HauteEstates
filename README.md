@@ -160,7 +160,7 @@
       font-family: 'Lora', serif;
       font-size: 1.1rem;
       line-height: 1.8;
-      color: #444;
+      color: #000000;
       max-width: 700px;
     }
   </style>
