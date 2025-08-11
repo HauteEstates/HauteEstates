@@ -26,14 +26,14 @@
           <div class="text-xs text-gray-500">Curated Luxury Living Marketing</div>
         </div>
       </a>
-      <nav class="hidden md:flex gap-6 items-start text-sm"
-        <a href="mailto:hauteestatesteam@gmail.com" 
-   class="px-4 py-2 border rounded-md text-sm font-medium text-white bg-purple-700 hover:bg-purple-800 transition"
-   target="_blank" rel="noopener noreferrer">
-  Contact Us
-</a>
+      <nav class="hidden md:flex gap-6 items-start text-sm">
         
-  </nav>
+  </nav <a href="mailto:hauteestatesteam@gmail.com"
+     class="inline-block px-6 py-3 bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 
+            text-black font-bold rounded-full shadow-md transition-transform duration-300 hover:scale-105 hover:shadow-lg"
+     target="_blank" rel="noopener noreferrer">
+    Contact Us
+<a>
       
     </div>
     <div id="mobileMenu" class="hidden border-t md:hidden">
