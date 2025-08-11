@@ -25,7 +25,7 @@
           <div class="text-xs text-gray-500">Curated Luxury Living Marketing</div>
         </div>
       </a>
-      <nav class="hidden md:flex gap-6 items-center text-sm">
+      <nav class="hidden md:flex gap-0 items-center text-sm">
         
       </nav>
       
