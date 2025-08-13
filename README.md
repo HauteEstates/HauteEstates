@@ -57,7 +57,7 @@
           <h1 class="text-4xl md:text-5xl font-bold leading-tight">Haute Estate</h1>
           <p class="mt-4 text-lg max-w-lg">Exclusive luxury homes, curated with taste. Follow our Instagram for daily reveals and design inspiration.</p>
           <div class="mt-6 flex gap-3">
-            <a href="#listings" class="create-listing-btn">Create Listing</a>
+            <a href="#listings" class="create-listing-btn">Get Featured</a>
 
 <style>
 .create-listing-btn,
